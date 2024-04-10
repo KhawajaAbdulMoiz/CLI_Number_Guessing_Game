@@ -1,0 +1,18 @@
+{
+  "name": "mxcode2_cli_number_guessing_game",
+  "version": "2.9.0",
+  "description": "A user friendly Number Guessing Game",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "mxcode2_cli_number_guessing_game": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
